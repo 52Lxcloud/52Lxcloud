@@ -1,4 +1,4 @@
-**凉心** 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=Lxcloud&title=Lxink)
+**凉心** 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=Lxcloud)
 
 凉心 是一个热衷于热爱~~~探索~~瞎捣鼓新事物的初级萌新。现阶段为高二在读学生，坐标四川。
 
