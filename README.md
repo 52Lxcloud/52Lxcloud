@@ -1,5 +1,7 @@
 **凉心** 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=Lxcloud)
 
+HelloWorld = "Hi guys👋，Welcome to my homepage";
+
 凉心 是一个热衷于探索新事物的初级萌新。现阶段为高二在读学生，坐标四川。
 
 生活中，他是一个不擅长与人交流和表达内心真实想法的人（内向，社恐）。
