@@ -10,5 +10,5 @@ HelloWorld = "Hi guys👋，Welcome to my homepage";
 
 - 📫 How to reach me: lxcloud@126.com
 
-更多介绍前往：[自述 -- 凉心の小窝](https://xia.lt/about)
+更多介绍前往：[自述 -- 凉心の小窝](https://www.lxink.cn/about)
 
